@@ -1,4 +1,4 @@
-.First-Class {
+.odd {
     background-color: #FFC0CB;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
@@ -8,14 +8,12 @@
     font-size: 36px;
 }
 
-.Second-Class {
-    background-color: #FFC0CB;
-    font-family: "Verdana", "DejaVu Sans", sans-serif;
+.adjust-font-size {
     font-size: 24px;
 }
 
 #Second-ID{
-    background-color: hsl(120, 73, 75);
+    background-color: hsl(120, 100%, 75%);
     font-size: 24px;
     font-weight: 700;
 }
