@@ -13,3 +13,14 @@
     font-family: "Verdana", "DejaVu Sans", sans-serif;
     font-size: 24px;
 }
+
+#Second-ID{
+    color: hsl(120, 73, 75);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.Third-Class {
+    background-color: #FFC0CB;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
